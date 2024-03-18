@@ -10,8 +10,10 @@ Libraries used: HTTPClient, ArduinoJson, NTPClient, WiFi and WiFiUdp
 
 <img alt="Air Raid Alert - Circuit Diagram" src="https://github.com/2CoderOK/air-raid-alert/blob/main/circuit_diagram.png" />
 
-Here you can watch a video on how it was built: [https://youtube.com/@coderok](https://youtube.com/@coderok)
+Here you can watch a video on how it was built: [https://youtube.com/@coderok](https://youtu.be/96fwc9KidEc)
 
-[<img alt="A Portable Air Raid Alert" src="https://github.com/2CoderOK/air-raid-alert/blob/main/air-raid_preview.png" />](https://youtube.com/@coderok)
+[<img alt="A Portable Air Raid Alert" src="https://github.com/2CoderOK/air-raid-alert/blob/main/air-raid_preview.png" />](https://youtu.be/96fwc9KidEc)
+
+[<img alt="A Portable Air Raid Alert" src="https://github.com/2CoderOK/air-raid-alert/blob/main/air-raid_case.jpg" />](https://youtu.be/96fwc9KidEc)
 
 [<img alt="Buy me a coffee" height="50px" src="https://github.com/2CoderOK/jp-trainer/blob/main/yellow-button.png" />](https://www.buymeacoffee.com/coderok)
