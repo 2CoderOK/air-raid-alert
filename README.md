@@ -12,6 +12,6 @@ Libraries used: HTTPClient, ArduinoJson, NTPClient, WiFi and WiFiUdp
 
 Here you can watch a video on how it was built: [https://youtube.com/@coderok](https://youtube.com/@coderok)
 
-[<img alt="A Portable Air Raid Alert" src="https://github.com/2CoderOK/air-raid-alert/blob/main/air-raid_alert_preview.png" />](https://youtube.com/@coderok)
+[<img alt="A Portable Air Raid Alert" src="https://github.com/2CoderOK/air-raid-alert/blob/main/air-raid_preview.png" />](https://youtube.com/@coderok)
 
 [<img alt="Buy me a coffee" height="50px" src="https://github.com/2CoderOK/jp-trainer/blob/main/yellow-button.png" />](https://www.buymeacoffee.com/coderok)
